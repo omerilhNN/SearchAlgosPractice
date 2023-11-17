@@ -1,0 +1,3 @@
+C:/Users/karak/CLionProjects/SearchAlgosPractice/cmake-build-debug/CMakeFiles/SearchAlgosPractice.dir
+C:/Users/karak/CLionProjects/SearchAlgosPractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karak/CLionProjects/SearchAlgosPractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
